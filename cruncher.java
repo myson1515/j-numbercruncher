@@ -3,7 +3,7 @@ public class cruncher {
 	/********************************************/
 	//Description:  This program calculates the sum, value, and Average of 2 numbers
 	//Date:  9/28/16
-	//Developer:  Mason W. Lapine
+	//Developer:  Mason L.
 	//Class: Computer Science
 	/********************************************/
 	public static void main(String[] args){
